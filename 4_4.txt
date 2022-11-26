@@ -1,0 +1,8 @@
+12	23	9	49	132	00:00:45	C:\Users\admin\Pictures\Screenshots\��Ļ��ͼ 2021-12-13 184010.png
+12	23	9	51	106	00:00:36	C:\Users\admin\Pictures\Screenshots\��Ļ��ͼ 2021-12-13 184010.png
+12	23	10	26	182	00:01:29	C:\Users\admin\Pictures\Screenshots\5.png
+12	23	10	36	156	00:01:14	C:\Users\admin\Pictures\Screenshots\5.png
+12	23	10	53	186	00:01:35	C:\Users\admin\Pictures\Screenshots\5.png
+12	23	10	56	112	00:00:56	C:\Users\admin\Pictures\Screenshots\5.png
+12	23	11	6	158	00:01:17	C:\Users\admin\Pictures\Screenshots\5.png
+12	23	15	34	202	00:01:27	C:\Users\admin\Pictures\Screenshots\5.png
