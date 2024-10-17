@@ -1,7 +1,7 @@
 ## Watch the full demonstration video at the link: https://youtu.be/9llttFpfhUo
 
 ### Choose the number of rows and columns for the game：
-https://github.com/user-attachments/assets/b9309268-07d0-4971-a9f2-bfe2de662c1b
+https://github.com/user-attachments/assets/a6e86c11-b457-4b76-96d0-796c625209f1
 
 ### Check game tips while playing：
 https://github.com/user-attachments/assets/b9c427cd-fe4d-4fbe-9598-2a5e68232139
